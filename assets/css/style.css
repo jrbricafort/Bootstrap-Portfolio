@@ -1,6 +1,7 @@
 body{
     max-width:960px;
     margin:auto;
+    /* background: #4aaaa5; */
 }
 
 .nav{
@@ -49,11 +50,13 @@ body{
     color: black;
 }
 
-.footer{
+/* .footer{
     background: #4aaaa5;
     padding: 40px;
-    position: absolute sticky;
-}
+    position: bottom absolute sticky;
+    height: 50px;
+    margin-top: -50px;
+} */
 
 .card{
     background: #4aaaa5;
@@ -62,4 +65,8 @@ body{
 
 div.card-body{
     padding: 20px;
+}
+
+.container{
+    background: #eeeeee;
 }
