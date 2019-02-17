@@ -13,15 +13,12 @@ body{
 }
 
 .image {
+    max-height: 50%;
+    max-width: 50%;
     height: auto;
     float: left;
     margin: 20px;
   }
-
-/* .profile {
-    max-height: 400px;
-    max-width: 400px;
-} */
 
 .nav-about{
     border-right: 1px solid #dddddd;
