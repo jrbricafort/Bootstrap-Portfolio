@@ -13,8 +13,6 @@ body{
 }
 
 .image {
-    max-height: 50%;
-    max-width: 50%;
     height: auto;
     float: left;
     margin: 20px;
