@@ -1,11 +1,11 @@
-body{
-    max-width:960px;
-    margin:auto;
-    /* background: #4aaaa5; */
+body {
+    max-width: 960px;
+    margin: auto;
 }
 
-.nav{
-    background: #4aaaa5;
+.nav {
+    background: #7FDBFF;
+    border-radius: 15px;
     padding: 20px;
     font-size: 50px;
     color: #eeee;
@@ -13,62 +13,56 @@ body{
 }
 
 .image {
-    max-height: 80%;
-    max-width: 80%;
-    /* max-height: 400px;
-    max-width: 400px; */
+    max-height: 30%;
+    max-width: 30%;
     float: left;
-    margin: 20px;
-  }
+    margin: 20px 20px 20px 0px;
+}
 
-.nav-about{
+.nav-about {
     border-right: 1px solid #dddddd;
 }
 
-.nav-portfolio{
+.nav-portfolio {
     border-right: 1px solid #dddddd;
 }
 
-.nav-link{
-    font:50px;
+.nav-link {
+    font: 50px;
 }
 
-.pictures{
+.pictures {
     font-size: 20px;
     max-width: 700px;
     max-height: 700px;
     margin: 20px;
-
 }
 
-.title{
+.title {
     border-bottom: solid grey 2px;
-    margin-bottom: 10px;
+    margin-bottom: 0px 0 px 10px 0px;
+
 }
 
-.stuff{
-    padding: 20px;
+.stuff {
+    padding: 15px;
     font-size: 20px;
     color: black;
 }
 
-/* .footer{
-    background: #4aaaa5;
-    padding: 40px;
-    position: bottom absolute sticky;
-    height: 50px;
-    margin-top: -50px;
-} */
-
-.card{
-    background: #4aaaa5;
+.card {
+    background: #7FDBFF;
     margin-bottom: 20px;
 }
 
-div.card-body{
+div.card-body {
     padding: 20px;
 }
 
-.container{
+/* .card-img-top {
+    border-radius: 15px;
+} */
+
+.container {
     background: #eeeeee;
 }
