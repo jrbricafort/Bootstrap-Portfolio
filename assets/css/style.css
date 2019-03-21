@@ -66,3 +66,7 @@ div.card-body {
 .container {
     background: #eeeeee;
 }
+
+.wrapper{
+    margin: 20px
+}
