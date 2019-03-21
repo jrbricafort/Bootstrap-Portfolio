@@ -1,10 +1,10 @@
 var config = {
-    apiKey: "AIzaSyADYQHhFmQ_FTJ1aEog5WW2Igj0JUm53F8",
-    authDomain: "my-awesome-project-id-9cf5f.firebaseapp.com",
-    databaseURL: "https://my-awesome-project-id-9cf5f.firebaseio.com",
-    projectId: "my-awesome-project-id-9cf5f",
-    storageBucket: "my-awesome-project-id-9cf5f.appspot.com",
-    messagingSenderId: "422867390928"
+    apiKey: "AIzaSyDHCYJRM6qUVWLPX-V2K-2tn9Y-4OaY1og",
+    authDomain: "contact-me-4e79c.firebaseapp.com",
+    databaseURL: "https://contact-me-4e79c.firebaseio.com",
+    projectId: "contact-me-4e79c",
+    storageBucket: "contact-me-4e79c.appspot.com",
+    messagingSenderId: "278243987231"
 };
 firebase.initializeApp(config);
 
