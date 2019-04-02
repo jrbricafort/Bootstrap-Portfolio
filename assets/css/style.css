@@ -41,7 +41,6 @@ body {
 .title {
     border-bottom: solid grey 2px;
     margin-bottom: 0px 0 px 10px 0px;
-
 }
 
 .stuff {
@@ -59,18 +58,19 @@ div.card-body {
     padding: 20px;
 }
 
-/* .card-img-top {
-    border-radius: 15px;
-} */
+.card-img-top {
+    max-width: 333px;
+    max-height: 222px;
+}
 
 .container {
     background: #eeeeee;
 }
 
-.wrapper{
+.wrapper {
     margin: 20px
 }
 
-#submit{
-margin: 20px;
+#submit {
+    margin: 20px;
 }
