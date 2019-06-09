@@ -2,7 +2,8 @@ My name is Joseph Ricafort and this is my portfolio. I chose this bootstrap temp
 
 Technologies used in my modification of this template include: HTML, CSS, JavaScript, jQuery, Firebase, and Github
 
-Domain URL redirect: jricafort.com
+Domain URL redirect: http://jricafort.com
+
 URL: https://jrbricafort.github.io/Bootstrap-Portfolio/index.html
 
 Author URL: https://bootstrapmade.com
