@@ -789,6 +789,9 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
+  /* max-width: 500px;*/
+  height: 221.23px;
+  /* background-image: cover; */
 }
 
 .work-img img {
